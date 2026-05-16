@@ -4,3 +4,5 @@
 - First public release of brand dossier
 - Upload of original identity assets
 - Creation of legal authorship declaration
+### Changed
+- Project relicensed from MIT to No license.
