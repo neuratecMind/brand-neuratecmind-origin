@@ -1,0 +1,1 @@
+- Autores originais: Miguel "(nome completo nao informado por motivos de privacidade.)" em serviço de "Neuratec Mind" / "Neura Mindtec (Ions.)". 
