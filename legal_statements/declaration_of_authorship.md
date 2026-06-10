@@ -1,6 +1,6 @@
 # Declaration of Authorship
 
-I, [MIGUEL HERMÍNIO], declare that I am the original creator
+I, [MIGUEL HERMÍNIO DE CARVALHO], declare that I am the original creator
 of the brand "NeuratecMind / Neura Mindtec (Ions.)".
 
 This repository represents the first public disclosure of the
@@ -10,4 +10,4 @@ Date: [19/04/2026]
 Location: Brazil
 
 Signature:
-[MIGUEL HERMÍNIO]
+[MIGUEL HERMÍNIO DE CARVALHO]
