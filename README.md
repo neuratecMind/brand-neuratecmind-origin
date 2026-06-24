@@ -26,3 +26,4 @@ This repository serves as public evidence of:
 
 All contents are copyright © [2026] [Miguel].
 Unauthorized commercial use is prohibited.
+See the LICENSE file for details.
